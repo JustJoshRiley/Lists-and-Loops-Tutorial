@@ -3,7 +3,7 @@
 songs = ["ROCKSTAR", "Do It", "For The Night"]
 
 # question 2
-# print(songs[1:3])
+print(songs[1:3])
 
 # question 3
 songs[2] = "Poker Face"
